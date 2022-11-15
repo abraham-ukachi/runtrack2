@@ -41,10 +41,10 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | No. | Name | File | Status |
 |:----|:-----|:-----|:-------|
 | 1 | *`Job 0`* | *N/A* | [Done](#) |
-| 2 | *`Job 0.9`* | **index.php** | *_In progress_* |
-| 3 | *`Job 01`* | **index.php** | Pending |
-| 4 | *`Job 02`* | **index.php** | Pending |
-| 5 | *`Job 03`* | **index.php** | Pending |
+| 2 | *`Job 0.9`* | **job00/index.php** | *_In progress_* |
+| 3 | *`Job 01`* | **job01/index.php** | Pending |
+| 4 | *`Job 02`* | **job02/index.php** | Pending |
+| 5 | *`Job 03`* | **job03/index.php** | Pending |
 
 > NOTE: (\*) = still needs to be updated \
 > 			(*N/A*) = no file was required or needed for this particular task.
@@ -55,8 +55,8 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 The folder & file structure of this project:
   
 - [**jour01**](./jour01/)
-- - [**job01**](./jour01/job01/)
-- - [**job02**](./jour01/job02/)
+- - [**job00**](./jour01/job00/)
+- - ...
 - - [**job03**](./jour01/job03/)
 - - * **index.php**
 - ...

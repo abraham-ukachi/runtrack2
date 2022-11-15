@@ -58,10 +58,10 @@ The folder & file structure of this project:
 - - [**job01**](./jour01/job01/)
 - - [**job02**](./jour01/job02/)
 - - [**job03**](./jour01/job03/)
-- - ...
-- - **index.php**
+- - * **index.php**
 - ...
 - README.md
+- **index.php**
 
 > NOTE: This is just a snippet.
 

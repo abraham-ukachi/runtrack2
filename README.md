@@ -27,7 +27,7 @@ The official deadline of the jobs below - according to [intra](https://intra.lap
 
 | No. | Job | Status |
 | --- | ---- | ------ |
-| 1 | [*`Jour 1 - Hello PHP`*](#Jour-1---Hello-PHP) | Pending |
+| 1 | [*`Jour 1 - Hello PHP`*](#Jour-1---Hello-PHP) | *_Working_* |
 
 > NOTE: (\*) = still needs to be updated
 
@@ -41,7 +41,7 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | No. | Name | File | Status |
 |:----|:-----|:-----|:-------|
 | 1 | *`Job 0`* | *N/A* | [Done](#) |
-| 2 | *`Job 0.9`* | *N/A* | [Done](#) |
+| 2 | *`Job 0.9`* | **index.php** | *_In progress_* |
 | 3 | *`Job 01`* | **index.php** | Pending |
 | 4 | *`Job 02`* | **index.php** | Pending |
 | 5 | *`Job 03`* | **index.php** | Pending |
@@ -68,10 +68,29 @@ The folder & file structure of this project:
 
 
 ### Installation
+> IMPORTANT: Make sure you have `XAMPP` already installed in your Linux machine before proceeding.
+
+1. Clone this project's repository
+```sh
+git clone https://github.com/abraham-ukachi/runtrack2.git
+```
+
+> NOTE: There's no need to change the current working directory to **runtrack2**
+
+
+2. Now, create a symbolic link of **runtrack2** in the `XAMPP`'s **htdocs** folder:
 
 ```sh
-git clone https://github.com/abraham-ukachi/runtrack2.git && cd runtrack2
+ln -s runtrack2 /opt/lampp/htdocs/runtrack2
 ```
+
+3. Open the **runtrack2** folder in your default browser:
+
+```sh
+open http://localhost/runtrack2
+```
+
+
 
 
 ---

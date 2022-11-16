@@ -93,8 +93,8 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 |:----|:-----|:-----|:-------|
 | 1 | *`Job 01`* | **job01/index.php** | [Done](./jour03/job01/index.php)\* |
 | 2 | *`Job 02`* | **job02/index.php** | [Done](./jour03/job02/index.php)\* |
-| 3 | *`Job 03`* | **job03/index.php** | _*In progress*_ |
-| 4 | *`Job 04`* | **job04/index.php** | Pending |
+| 3 | *`Job 03`* | **job03/index.php** | [Done](./jour03/job03/index.php)\* |
+| 4 | *`Job 04`* | **job04/index.php** | *_In progress_*|
 | 5 | *`Job 05`* | **job05/index.php** | Pending |
 | 6 | *`Job 06`* | **job06/index.php** | Pending |
 | 7 | *`Job 07`* | **job07/index.php** | Pending |

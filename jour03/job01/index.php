@@ -66,16 +66,15 @@ $numList = [200, 204, 173, 98, 171, 404, 459];
 
 // For each number (i.e `num`) in `numList`...
 foreach($numList as $num) {
-    // ...if `num` can be divided by 2...
-	if (($num % 2) === 0) {
-		// ...tell the world it is an *EVEN* number (in french)
-		echo "<p style='color: blue'>$num est <strong>PAIRE</strong></p>"; // <- blue paragraph
-
-	}else {
-		// tell the world that `num` is an *ODD* number (in french)
-		echo "<p style='color: red'>$num est <strong>IMPAIRE</strong></p>"; // <- red paragraph
-
-	}
+  // ...if `num` can be divided by 2...
+  if (($num % 2) === 0) {
+  // ...tell the world it is an *EVEN* number (in french)
+  echo "<p style='color: blue'>$num est <strong>PAIRE</strong></p>"; // <- blue paragraph
+  
+  } else {
+    // tell the world that `num` is an *ODD* number (in french)
+    echo "<p style='color: red'>$num est <strong>IMPAIRE</strong></p>"; // <- red paragraph
+  }
 
 }
 

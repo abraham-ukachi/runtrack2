@@ -23,18 +23,35 @@ These are a couple of the main requirements for this school project:
 ## Jobs
 > MOTTO: I'll always do [**more**](#More) 😜
 
-The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **11/15/2022 at 5:48 p.m.**.
 
 | No. | Job | Status |
 | --- | ---- | ------ |
 | 1 | [*`Jour 1 - Hello PHP`*](#Jour-1---Hello-PHP) | *_Working_* |
+| 2 | [*`Jour 2 - Conditions`*](#Jour-2---Conditions) | Pending |
+| 3 | [*`Jour 3 - ?`*](#Jour-3---?) | Pending |
 
 > NOTE: (\*) = still needs to be updated
 
+## Structure
+
+The folder & file structure of this project:
+  
+- [**jour01**](./jour01/)
+- - [**job00**](./jour01/job00/)
+- - ...
+- - [**job03**](./jour01/job03/)
+- - * **index.php**
+- [**jour02**](./jour02/)
+- ...
+- README.md
+- **index.php**
+
+> NOTE: This is just a snippet.
 
 
 
 ## Jour 1 - Hello PHP
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **11/15/2022 at 5:48 p.m.**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
 
@@ -50,24 +67,46 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > 			(*N/A*) = no file was required or needed for this particular task.
 
 
-### Structure
+## Jour 2 - Conditions
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
 
-The folder & file structure of this project:
-  
-- [**jour01**](./jour01/)
-- - [**job00**](./jour01/job00/)
-- - ...
-- - [**job03**](./jour01/job03/)
-- - * **index.php**
-- ...
-- README.md
-- **index.php**
+Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
 
-> NOTE: This is just a snippet.
+| No. | Name | File | Status |
+|:----|:-----|:-----|:-------|
+| 1 | *`Job 01`* | **job01/index.php** | Pending |
+| 2 | *`Job 02`* | **job02/index.php** | Pending |
+| 3 | *`Job 03`* | **job03/index.php** | Pending |
+| 4 | *`Job 04`* | **job04/index.php** | Pending |
+| 5 | *`Job 05`* | **job05/index.php** | Pending |
+
+> NOTE: (\*) = still needs to be updated \
+> 			(*N/A*) = no file was required or needed for this particular task.
+
+
+## Jour 3 - Tableaux
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **17/11/2022 at 09:48**.
+
+Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
+
+| No. | Name | File | Status |
+|:----|:-----|:-----|:-------|
+| 1 | *`Job 01`* | **job01/index.php** | Pending |
+| 2 | *`Job 02`* | **job02/index.php** | Pending |
+| 3 | *`Job 03`* | **job03/index.php** | Pending |
+| 4 | *`Job 04`* | **job04/index.php** | Pending |
+| 5 | *`Job 05`* | **job05/index.php** | Pending |
+| 6 | *`Job 06`* | **job06/index.php** | Pending |
+| 7 | *`Job 07`* | **job07/index.php** | Pending |
+
+> NOTE: (\*) = still needs to be updated \
+> 			(*N/A*) = no file was required or needed for this particular task.
 
 
 
-### Installation
+---
+
+## Installation
 > IMPORTANT: Make sure you have `XAMPP` already installed in your Linux machine before proceeding.
 
 1. Clone this project's repository

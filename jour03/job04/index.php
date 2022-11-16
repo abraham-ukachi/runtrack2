@@ -52,7 +52,7 @@ $str = "Dans l'espace, personne ne vous entend crier";
 $index = 0;
 
 // Create a `count` variable
-// IDEA: Start counting all the characters in `str` from 1 obv.
+// IDEA: Start counting all the characters in `str` from 0, like we were thought in math class ;-)
 $count = 0;
 
 
@@ -75,7 +75,7 @@ do {
 //      ^^^^^ I'm only allowed to use this `isset()` function for this task. So, there you go ;)
 
 
-// Show this `count` to anybody who cares
+// Show the total `count` to anybody who cares
 echo $count; // <- OUTPUT: 38
 
 

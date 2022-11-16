@@ -91,8 +91,8 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 
 | No. | Name | File | Status |
 |:----|:-----|:-----|:-------|
-| 1 | *`Job 01`* | **job01/index.php** | _*In progress*_ |
-| 2 | *`Job 02`* | **job02/index.php** | Pending |
+| 1 | *`Job 01`* | **job01/index.php** | [Done](./jour03/job01/index.php)\* |
+| 2 | *`Job 02`* | **job02/index.php** | _*In progress*_ |
 | 3 | *`Job 03`* | **job03/index.php** | Pending |
 | 4 | *`Job 04`* | **job04/index.php** | Pending |
 | 5 | *`Job 05`* | **job05/index.php** | Pending |
@@ -100,7 +100,7 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | 7 | *`Job 07`* | **job07/index.php** | Pending |
 
 > NOTE: (\*) = still needs to be updated \
-> 			(*N/A*) = no file was required or needed for this particular task.
+> 		(*N/A*) = no file was required or needed for this particular task.
 
 
 

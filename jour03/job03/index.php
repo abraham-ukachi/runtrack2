@@ -41,7 +41,7 @@
 */
 
 
-// NOTE: I'm not allowed to use `str_len()`, to get the length of the `str`.
+// NOTE: I'm not allowed to use `strlen()`, to get the length of the `str`.
 
 // Create the `str` variable as instructed with the given / aformentioned string value
 $str = "I'm sorry Dave I'm afraid I can't do that";

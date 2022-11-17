@@ -42,7 +42,7 @@
 */
 
 
-// NOTE: I'm not allowed to use `str_len()`, to get the length of the `str`.
+// NOTE: I'm not allowed to use `strlen()`, to get the length of the `str`.
 
 // Initialize a `str` variable with the given / aformentioned text (in french). 
 $str = "Tous ces instants seront perdus dans le temps comme les larmes sous la pluie.";

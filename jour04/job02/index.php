@@ -63,7 +63,7 @@
 // Get an array of all the Get arguments as `getArgs`
 $getArgs = $_GET;
 
-// Initialize the 'hidden Toast' variable
+// Initialize the 'hidden Table' variable
 $hiddenTable = "hidden";
 // Initialize the 'number of arguments' variable
 $numArgs = 0;
@@ -77,7 +77,7 @@ foreach ($getArgs as $arg) {
   //echo "arg => $arg <br>";
 }
 
-// Using our beloved ternary statement, assign 'hidden' to the `hiddenToast` variable, 
+// Using our beloved ternary statement, assign 'hidden' to the `hiddenTable` variable, 
 // Only if the number of arguments (`numArgs`) is 0. 
 $hiddenTable = ($numArgs === 0) ? "hidden" : "";
 

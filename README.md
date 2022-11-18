@@ -60,7 +60,7 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | 1 | *`Job 0`* | *N/A* | [Done](#) |
 | 2 | *`Job 0.9`* | **job00/index.php** | [Done](./jour01/job00/index.php) |
 | 3 | *`Job 01`* | **job01/index.php** | [Done](./jour01/job01/index.php) |
-| 4 | *`Job 02`* | **job02/index.php** | *_In progress_* |
+| 4 | *`Job 02`* | **job02/index.php** | **Paused** |
 | 5 | *`Job 03`* | **job03/index.php** | Pending |
 
 > NOTE: (\*) = still needs to be updated \
@@ -96,11 +96,31 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | 3 | *`Job 03`* | **job03/index.php** | [Done](./jour03/job03/index.php)\* |
 | 4 | *`Job 04`* | **job04/index.php** | [Done](./jour03/job04/index.php)\* |
 | 5 | *`Job 05`* | **job05/index.php** | [Done](./jour03/job05/index.php)\* |
-| 6 | *`Job 06`* | **job06/index.php** | _*In progress*_ |
+| 6 | *`Job 06`* | **job06/index.php** | **Paused**_ |
 | 7 | *`Job 07`* | **job07/index.php** | Pending |
 
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
+
+
+## Jour 4 - GET et POST
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **17/11/2022 at 09:48**.
+
+Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
+
+| No. | Name | File | Status |
+|:----|:-----|:-----|:-------|
+| 1 | *`Job 01`* | **job01/index.php** | [Done](./jour04/job01/index.php)\* |
+| 2 | *`Job 02`* | **job02/index.php** | _*In progress*_ |
+| 3 | *`Job 03`* | **job03/index.php** | Pending |
+| 4 | *`Job 04`* | **job04/index.php** | Pending |
+| 5 | *`Job 05`* | **job05/index.php** | Pending |
+| 6 | *`Job 06`* | **job06/index.php** | Pending |
+| 7 | *`Job 07`* | **job07/index.php** | Pending |
+
+> NOTE: (\*) = still needs to be updated \
+> 		(*N/A*) = no file was required or needed for this particular task.
+
 
 
 

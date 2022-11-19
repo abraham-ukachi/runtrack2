@@ -45,11 +45,6 @@
 *   |  firstname    | Stephane |
 *   |  lastname     | Dupont   |
 *
-*
-* ~~~~~~~~ (English) ~~~~~~~~
-* 
-* - 
-*
 * ============================
 * WARNING: This task/job was done in a hurry; my code is therefore not as 'pretty'. #LOL
 * ============================

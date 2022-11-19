@@ -94,9 +94,9 @@ $hiddenTable = ($numArgs === 0) ? "hidden" : "";
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="IE=edge, chrome=1">
-    <meta http-equiv="Content-type" content="text/html; charset=cp1255">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
-    <meta name="description" content="Job1 of Day4 - Runtrack">
+    <meta name="description" content="Job2 of Day4 - Runtrack22">
 
     <title>Job02 - Jour04 | Runtrack2</title>
 

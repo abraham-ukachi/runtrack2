@@ -302,7 +302,7 @@ $hiddenTable = ($numArgs === 0) ? "hidden" : "";
         placeholder="Marseille"
       /> <!-- End of Place Input -->
       
-      <input type="submit" value="Submit Now">
+      <input type="submit" value="Apply Now">
 
     </form>
     <!-- End of Form -->

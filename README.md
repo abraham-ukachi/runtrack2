@@ -115,8 +115,8 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | 2 | *`Job 02`* | **job02/index.php** | [Done](./jour04/job02/index.php)\* |
 | 3 | *`Job 03`* | **job03/index.php** | [Done](./jour04/job03/index.php)\* |
 | 4 | *`Job 04`* | **job04/index.php** | [Done](./jour04/job04/index.php)\* |
-| 5 | *`Job 05`* | **job05/index.php** | _*In progress*_ |
-| 6 | *`Job 06`* | **job06/index.php** | Pending |
+| 5 | *`Job 05`* | **job05/index.php** | [Done](./jour04/job05/index.php)\* |
+| 6 | *`Job 06`* | **job06/index.php** | *_In progress_* |
 | 7 | *`Job 07`* | **job07/index.php** | Pending |
 
 > NOTE: (\*) = still needs to be updated \

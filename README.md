@@ -69,7 +69,7 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 
 
 ## Jour 2 - Conditions
-> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **11/17/2022 at 06:45 a.m.**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
 
@@ -105,7 +105,7 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 
 
 ## Jour 4 - GET et POST
-> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **17/11/2022 at 09:48**.
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **11/19/2022 at 5:28 p.m.**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
 
@@ -114,8 +114,8 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | 1 | *`Job 01`* | **job01/index.php** | [Done](./jour04/job01/index.php)\* |
 | 2 | *`Job 02`* | **job02/index.php** | [Done](./jour04/job02/index.php)\* |
 | 3 | *`Job 03`* | **job03/index.php** | [Done](./jour04/job03/index.php)\* |
-| 4 | *`Job 04`* | **job04/index.php** | _*In progress*_ |
-| 5 | *`Job 05`* | **job05/index.php** | Pending |
+| 4 | *`Job 04`* | **job04/index.php** | [Done](./jour04/job04/index.php)\* |
+| 5 | *`Job 05`* | **job05/index.php** | _*In progress*_ |
 | 6 | *`Job 06`* | **job06/index.php** | Pending |
 | 7 | *`Job 07`* | **job07/index.php** | Pending |
 

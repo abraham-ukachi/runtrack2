@@ -1,7 +1,7 @@
 <?php
 /*
  * * Job: 01
-* Day: 04 - (Wednesday)
+* Day: 04 - (Thursday & Friday)
 * Name: 'Jour 4 - Tableaux'
 * File: index.php
 * Author: Abraham Ukachi <abraham.ukachi@laplateforme.io>

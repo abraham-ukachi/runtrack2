@@ -2,7 +2,7 @@
 /*
  * * Job: 01
 * Day: 04 - (Thursday & Friday)
-* Name: 'Jour 4 - Tableaux'
+* Name: 'Jour 4 - Get et POST'
 * File: index.php
 * Author: Abraham Ukachi <abraham.ukachi@laplateforme.io>
 * Version: -?-

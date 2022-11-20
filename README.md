@@ -117,7 +117,7 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | 4 | *`Job 04`* | **job04/index.php** | [Done](./jour04/job04/index.php)\* |
 | 5 | *`Job 05`* | **job05/index.php** | [Done](./jour04/job05/index.php)\* |
 | 6 | *`Job 06`* | **job06/index.php** | [Done](./jour04/job06/index.php)\* |
-| 7 | *`Job 07`* | **job07/index.php** | Pending |
+| 7 | *`Job 07`* | **job07/index.php** | _*In progress*_ |
 
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.

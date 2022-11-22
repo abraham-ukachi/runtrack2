@@ -29,7 +29,10 @@ These are a couple of the main requirements for this school project:
 | 1 | [*`Jour 1 - Hello PHP`*](#Jour-1---Hello-PHP) | **Paused** |
 | 2 | [*`Jour 2 - Conditions`*](#Jour-2---Conditions) | Pending |
 | 3 | [*`Jour 3 - Tableaux`*](#Jour-3---Tableaux) | **Paused** |
-| 3 | [*`Jour 4 - GET et POST`*](#Jour-3---GET-et-POST) | *_Working_* |
+| 4 | [*`Jour 4 & 5 - GET et POST`*](#Jour-4-&-5---GET-et-POST) | [Done](./jour04)\* |
+| 5 | [*`Jour 4 & 5 - GET et POST`*](#Jour-4-&-5---GET-et-POST) | [Done](./jour04)\* |
+| 6 | [*`Jour 6 - Revisions`*](#Jour-6---Revisions) | Pending |
+| 7 | [*`Jour 7 - Les fonctions`*](#Jour-7---Revisions) | _*In progress*_ |
 
 > NOTE: (\*) = still needs to be updated
 
@@ -104,7 +107,7 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > 		(*N/A*) = no file was required or needed for this particular task.
 
 
-## Jour 4 - GET et POST
+## Jour 4 & 5 - GET et POST
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **11/19/2022 at 5:28 p.m.**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
@@ -121,6 +124,45 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
+
+
+
+## Jour 6 - Revisions
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
+
+Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
+
+| No. | Name | File | Status |
+|:----|:-----|:-----|:-------|
+| 1 | *`Job 01`* | N/A | Dead |
+| 2 | *`Job 02`* | N/A | Dead |
+| 3 | *`Job 03`* | N/A | Dead |
+| 4 | *`Job 04`* | N/A | Dead |
+| 5 | *`Job 05`* | **job05/index.php** | Pending |
+
+> NOTE: (\*) = still needs to be updated \
+> 		(*N/A*) = no file was required or needed for this particular task.
+
+
+
+## Jour 7 - Les fonctions
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
+
+Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
+
+| No. | Name | File | Status |
+|:----|:-----|:-----|:-------|
+| 1 | *`Job 01`* | **job01/index.php** | Pending |
+| 2 | *`Job 02`* | **job02/index.php** | Pending |
+| 3 | *`Job 03`* | **job03/index.php** | Pending |
+| 4 | *`Job 04`* | **job04/index.php** | Pending |
+| 5 | *`Job 05`* | **job05/index.php** | Pending |
+| 6 | *`Job 06`* | **job06/index.php** | Pending |
+| 7 | *`Job 07`* | **job07/index.php** | _*In progress*_ |
+
+> NOTE: (\*) = still needs to be updated \
+> 		(*N/A*) = no file was required or needed for this particular task.
+
 
 
 

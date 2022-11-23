@@ -12,6 +12,8 @@ I spilled a lot of *hot coffee* on my **Macbook Air** last week Saturday (12/11/
 
 
 
+
+
 ## Requirements
 
 These are a couple of the main requirements for this school project:
@@ -32,14 +34,15 @@ These are a couple of the main requirements for this school project:
 | 4 | [*`Jour 4 & 5 - GET et POST`*](#Jour-4-&-5---GET-et-POST) | [Done](./jour04)\* |
 | 5 | [*`Jour 4 & 5 - GET et POST`*](#Jour-4-&-5---GET-et-POST) | [Done](./jour04)\* |
 | 6 | [*`Jour 6 - Revisions`*](#Jour-6---Revisions) | Pending |
-| 7 | [*`Jour 7 - Les fonctions`*](#Jour-7---Revisions) | _*In progress*_ |
+| 7 | [*`Jour 7 - Les fonctions`*](#Jour-7---Revisions) | **Paused** |
+| 8 | [*`Jour 8 - Session / Cookies`*](#Jour-8---Session-/-Cookies) | _*In progress*_ |
 
 > NOTE: (\*) = still needs to be updated
 
 ## Structure
 
 The folder & file structure of this project:
-  
+
 - [**jour01**](./jour01/)
 - - [**job00**](./jour01/job00/)
 - - ...
@@ -162,6 +165,24 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
+
+
+## Jour 8 - Session / Cookies
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
+
+Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
+
+| No. | Name | File | Status |
+|:----|:-----|:-----|:-------|
+| 1 | *`Job 01`* | **job01/index.php** | _*In progress*_ |
+| 2 | *`Job 02`* | **job02/index.php** | Pending |
+| 3 | *`Job 03`* | **job03/index.php** | Pending |
+| 4 | *`Job 04`* | **job04/index.php** | Pending |
+| 5 | *`Job 05`* | **job05/index.php** | Pending |
+
+> NOTE: (\*) = still needs to be updated \
+> 		(*N/A*) = no file was required or needed for this particular task.
+
 
 
 

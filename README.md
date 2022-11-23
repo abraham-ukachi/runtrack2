@@ -185,9 +185,6 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 
 
 
-
-
-
 ---
 
 ## Installation
@@ -241,8 +238,24 @@ These are some of the things I did in addition to this project's [job requiremen
 
 > NOTE:
 
+---
+
+## Some Random Screenshots
+
+### Day 08 - Screenshots
+> NOTE: These screenshots were captured with [inspector](https://www.chromium.org/developers/how-tos/inspecting-ash/) directly from the Chromium based **Brave Browser**.
+
+#### 1. Job1 of Day8
+![Screenshot of Job01 on Day8](./screenshots/screenshot_jour08_job01.png)
+#### 2. Job2 of Day8
+![Screenshot of Job02 on Day8](./screenshots/screenshot_jour08_job02.png)
+#### 3. Job3 of Day8
+![Screenshot of Job03 on Day8](./screenshots/screenshot_jour08_job03.png)
+
+
 ## TODOs
 
+- [ ] Resize the screenshots
 - [ ] Optimize all `.php` files
 - [ ] Remove unnecessary comments
 

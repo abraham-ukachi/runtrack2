@@ -78,7 +78,7 @@ if (!$foundCookie) {
   $foundCookie = true;
 
   // DEBUG [4dbsmaster]: tell me about it :)
-  echo "cookie created!!! foundCookie => " . json_encode($foundCookie) . "<br>";
+  // echo "cookie created!!! foundCookie => " . json_encode($foundCookie) . "<br>";
   
 }else if ($foundCookie && $resetCookie) { // <- if our cookie exists and has to be reset ...
 

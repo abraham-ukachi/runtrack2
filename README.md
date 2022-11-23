@@ -35,7 +35,7 @@ These are a couple of the main requirements for this school project:
 | 5 | [*`Jour 4 & 5 - GET et POST`*](#Jour-4-&-5---GET-et-POST) | [Done](./jour04)\* |
 | 6 | [*`Jour 6 - Revisions`*](#Jour-6---Revisions) | Pending |
 | 7 | [*`Jour 7 - Les fonctions`*](#Jour-7---Revisions) | **Paused** |
-| 8 | [*`Jour 8 - Session / Cookies`*](#Jour-8---Session-/-Cookies) | _*In progress*_ |
+| 8 | [*`Jour 8 - Session / Cookies`*](#Jour-8---Session--Cookies) | _*In progress*_ |
 
 > NOTE: (\*) = still needs to be updated
 
@@ -175,8 +175,8 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | No. | Name | File | Status |
 |:----|:-----|:-----|:-------|
 | 1 | *`Job 01`* | **job01/index.php** | [Done](./jour08/job01/index.php)\* |
-| 2 | *`Job 02`* | **job02/index.php** | _*In progress*_ |
-| 3 | *`Job 03`* | **job03/index.php** | Pending |
+| 2 | *`Job 02`* | **job02/index.php** | [Done](./jour08/job02/index.php)\* |
+| 3 | *`Job 03`* | **job03/index.php** | _*In progress*_ |
 | 4 | *`Job 04`* | **job04/index.php** | Pending |
 | 5 | *`Job 05`* | **job05/index.php** | Pending |
 

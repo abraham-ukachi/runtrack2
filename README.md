@@ -168,7 +168,7 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 
 
 ## Jour 8 - Session / Cookies
-> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**, and some [random screeshots](#Day-08---Screenshots) were captured for these jobs.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
 
@@ -177,8 +177,8 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 | 1 | *`Job 01`* | **job01/index.php** | [Done](./jour08/job01/index.php)\* |
 | 2 | *`Job 02`* | **job02/index.php** | [Done](./jour08/job02/index.php)\* |
 | 3 | *`Job 03`* | **job03/index.php** | [Done](./jour08/job03/index.php)\* |
-| 4 | *`Job 04`* | **job04/index.php** | _*In progress*_ |
-| 5 | *`Job 05`* | **job05/index.php** | Pending |
+| 4 | *`Job 04`* | **job04/index.php** | [Done](./jour08/job04/index.php)\* |
+| 5 | *`Job 05`* | **job05/index.php** | _*In progress*_ |
 
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
@@ -251,6 +251,11 @@ These are some of the things I did in addition to this project's [job requiremen
 ![Screenshot of Job02 on Day8](./screenshots/screenshot_jour08_job02.png)
 #### 3. Job3 of Day8
 ![Screenshot of Job03 on Day8](./screenshots/screenshot_jour08_job03.png)
+#### 4. Job4 of Day8
+A user (i.e. **Ruben**) is about to log in with his `firstname`.
+![Screenshot1 of Job03 on Day8](./screenshots/screenshot_jour08_job04_1.png)
+The user (i.e. **Ruben**) has logged in *successfully*.
+![Screenshot2 of Job03 on Day8](./screenshots/screenshot_jour08_job04_2.png)
 
 
 ## TODOs

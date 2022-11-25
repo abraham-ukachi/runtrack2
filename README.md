@@ -188,15 +188,15 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 
 
 ## Jour 9 - Hello SQL
-> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**,  and some [random screeshots](#Day-09---Screenshots) were captured for these jobs.
 
 Here is a list of all the task names, `.sql` files to be submitted and their corresponding / current **status** for this job:
 
 | No. | Name | File | Status |
 |:----|:-----|:-----|:-------|
 | 0 | *`Job 00`* | N/A | [Done](./jour09) |
-| 1 | *`Job 01`* | **job01.sql** | _*In progress*_ |
-| 2 | *`Job 02`* | **job03.sql** | Pending |
+| 1 | *`Job 01`* | **job01.sql** | [Done](./jour09/job01.sql)\* |
+| 2 | *`Job 02`* | **job02.sql** | _*In progress*_ |
 | 3 | *`Job 03`* | **job03.sql** | Pending |
 | 4 | *`Job 04`* | **job04.sql** | Pending |
 | 5 | *`Job 05`* | **job05.sql** | Pending |
@@ -315,6 +315,12 @@ A user (i.e. **Ruben**) is about to log in with his `firstname`.
 The user (i.e. **Ruben**) has logged in *successfully*.
 ![Screenshot2 of Job03 on Day8](./screenshots/screenshot_jour08_job04_2.png)
 
+
+### Day 09 - Screenshots
+> NOTE: These screenshots were captured with [inspector](https://www.chromium.org/developers/how-tos/inspecting-ash/) directly from the Chromium based **Brave Browser**.
+
+#### 1. Job1 of Day9
+![Screenshot of Job01 on Day9](./screenshots/screenshot_jour09_job01.png)
 
 ## TODOs
 

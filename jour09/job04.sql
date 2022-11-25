@@ -41,7 +41,7 @@
 -- --------------------------------------------------------
 
 --
--- Select all the [name] and [capacite] of the `etudiant` table
+-- Select all the [name] and [capacite] of the `salles` table
 --
-SELECT nom, capacite FROM `etudiants`; -- <- A one-liner is always appreciated! :)
+SELECT nom, capacite FROM `salles`; -- <- A one-liner is always appreciated! :)
 

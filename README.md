@@ -36,6 +36,8 @@ These are a couple of the main requirements for this school project:
 | 6 | [*`Jour 6 - Revisions`*](#Jour-6---Revisions) | Pending |
 | 7 | [*`Jour 7 - Les fonctions`*](#Jour-7---Revisions) | **Paused** |
 | 8 | [*`Jour 8 - Session / Cookies`*](#Jour-8---Session--Cookies) | _*In progress*_ |
+| 9 | [*`Jour 9 - Hello SQL`*](#Jour-9---Hello-SQL) | _*In progress*_ |
+| 10 | [*`Jour 10 - PHP + SQL`*](#Jour-10---PHP-+-SQL) | Pending |
 
 > NOTE: (\*) = still needs to be updated
 
@@ -183,6 +185,62 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
 
+
+
+## Jour 9 - Hello SQL
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
+
+Here is a list of all the task names, `.sql` files to be submitted and their corresponding / current **status** for this job:
+
+| No. | Name | File | Status |
+|:----|:-----|:-----|:-------|
+| 0 | *`Job 00`* | N/A | [Done](./jour09) |
+| 1 | *`Job 01`* | **job01.sql** | _*In progress*_ |
+| 2 | *`Job 02`* | **job03.sql** | Pending |
+| 3 | *`Job 03`* | **job03.sql** | Pending |
+| 4 | *`Job 04`* | **job04.sql** | Pending |
+| 5 | *`Job 05`* | **job05.sql** | Pending |
+| 6 | *`Job 06`* | **job06.sql** | Pending |
+| 7 | *`Job 07`* | **job07.sql** | Pending |
+| 8 | *`Job 08`* | **job08.sql** | Pending |
+| 9 | *`Job 09`* | **job09.sql** | Pending |
+| 10 | *`Job 10`* | **job10.sql** | Pending |
+| 11 | *`Job 11`* | **job11.sql** | Pending |
+| 12 | *`Job 12`* | **job12.sql** | Pending |
+| 13 | *`Job 13`* | **job13.sql** | Pending |
+| 14 | *`Job 14`* | **job14.sql** | Pending |
+| 15 | *`Job 15`* | **job15.sql** | Pending |
+| 16 | *`Job 16`* | **job16.sql** | Pending |
+
+> NOTE: (\*) = still needs to be updated \
+> 		(*N/A*) = no file was required or needed for this particular task.
+
+
+
+## Jour 10 - PHP + SQL 
+> The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
+
+Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
+
+| No. | Name | File | Status |
+|:----|:-----|:-----|:-------|
+| 0 | *`Job 00`* | N/A | [Done](./jour10) |
+| 1 | *`Job 01`* | **job01/index.php** | Pending |
+| 2 | *`Job 02`* | **job03/index.php** | Pending |
+| 3 | *`Job 03`* | **job03/index.php** | Pending |
+| 4 | *`Job 04`* | **job04/index.php** | Pending |
+| 5 | *`Job 05`* | **job05/index.php** | Pending |
+| 6 | *`Job 06`* | **job06/index.php** | Pending |
+| 7 | *`Job 07`* | **job07/index.php** | Pending |
+| 8 | *`Job 08`* | **job08/index.php** | Pending |
+| 9 | *`Job 09`* | **job09/index.php** | Pending |
+| 10 | *`Job 10`* | **job10/index.php** | Pending |
+| 11 | *`Job 11`* | **job11/index.php** | Pending |
+| 12 | *`Job 12`* | **job12/index.php** | Pending |
+| 13 | *`Job 13`* | **job13/index.php** | Pending |
+
+> NOTE: (\*) = still needs to be updated \
+> 		(*N/A*) = no file was required or needed for this particular task.
 
 
 ---

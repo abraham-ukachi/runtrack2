@@ -34,7 +34,7 @@ These are a couple of the main requirements for this school project:
 | 4 | [*`Jour 4 & 5 - GET et POST`*](#Jour-4-&-5---GET-et-POST) | [Done](./jour04)\* |
 | 5 | [*`Jour 4 & 5 - GET et POST`*](#Jour-4-&-5---GET-et-POST) | [Done](./jour04)\* |
 | 6 | [*`Jour 6 - Revisions`*](#Jour-6---Revisions) | Pending |
-| 7 | [*`Jour 7 - Les fonctions`*](#Jour-7---Revisions) | **Paused** |
+| 7 | [*`Jour 7 - Les fonctions`*](#Jour-7---Les-fonctions) | **Paused** |
 | 8 | [*`Jour 8 - Session / Cookies`*](#Jour-8---Session--Cookies) | _*In progress*_ |
 | 9 | [*`Jour 9 - Hello SQL`*](#Jour-9---Hello-SQL) | [Done](./jour09) |
 | 10 | [*`Jour 10 - PHP + SQL`*](#Jour-10---PHP-+-SQL) | *_In progress*_ |

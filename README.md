@@ -205,9 +205,9 @@ Here is a list of all the task names, `.sql` files to be submitted and their cor
 | 8 | *`Job 08`* | **job08/job08.sql** | [Done](./jour09/job08/job08.sql) |
 | 9 | *`Job 09`* | **job09/job09.sql** | [Done](./jour09/job09/job09.sql) |
 | 10 | *`Job 10`* | **job10/job10.sql** | [Done](./jour09/job10/job10.sql) |
-| 11 | *`Job 11`* | **job11/job11.sql** | _*In progress*_ |
-| 12 | *`Job 12`* | **job12/job12.sql** | Pending |
-| 13 | *`Job 13`* | **job13/job13.sql** | Pending |
+| 11 | *`Job 11`* | **job11/job11.sql** | [Done](./jour09/job11/job11.sql) |
+| 12 | *`Job 12`* | **job12/job12.sql** | [Done](./jour09/job12/job12.sql)  |
+| 13 | *`Job 13`* | **job13/job13.sql** | _*In progress*_ |
 | 14 | *`Job 14`* | **job14/job14.sql** | Pending |
 | 15 | *`Job 15`* | **job15/job15.sql** | Pending |
 | 16 | *`Job 16`* | **job16/job16.sql** | Pending |

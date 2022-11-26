@@ -36,8 +36,8 @@ These are a couple of the main requirements for this school project:
 | 6 | [*`Jour 6 - Revisions`*](#Jour-6---Revisions) | Pending |
 | 7 | [*`Jour 7 - Les fonctions`*](#Jour-7---Revisions) | **Paused** |
 | 8 | [*`Jour 8 - Session / Cookies`*](#Jour-8---Session--Cookies) | _*In progress*_ |
-| 9 | [*`Jour 9 - Hello SQL`*](#Jour-9---Hello-SQL) | _*In progress*_ |
-| 10 | [*`Jour 10 - PHP + SQL`*](#Jour-10---PHP-+-SQL) | Pending |
+| 9 | [*`Jour 9 - Hello SQL`*](#Jour-9---Hello-SQL) | [Done](./jour09) |
+| 10 | [*`Jour 10 - PHP + SQL`*](#Jour-10---PHP-+-SQL) | *_In progress*_ |
 
 > NOTE: (\*) = still needs to be updated
 
@@ -210,7 +210,7 @@ Here is a list of all the task names, `.sql` files to be submitted and their cor
 | 13 | *`Job 13`* | **job13/job13.sql** | [Done](./jour09/job13/job13.sql) |
 | 14 | *`Job 14`* | **job14/job14.sql** | [Done](./jour09/job14/job14.sql) |
 | 15 | *`Job 15`* | **job15/job15.sql** | [Done](./jour09/job15/job15.sql) |
-| 16 | *`Job 16`* | **job16/job16.sql** | _*In progress*_ |
+| 16 | *`Job 16`* | **job16/job16.sql** | [Done](./jour09/job16/job16.sql) |
 
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.

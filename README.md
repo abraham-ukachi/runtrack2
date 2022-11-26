@@ -352,16 +352,30 @@ These are some of the things I did in addition to this project's [job requiremen
 ### Day 08 - Screenshots
 > NOTE: These screenshots were captured with [inspector](https://www.chromium.org/developers/how-tos/inspecting-ash/) directly from the Chromium based **Brave Browser**.
 
+
 #### 1. Job1 of Day8
+
 ![Screenshot of Job01 on Day8](./screenshots/screenshot_jour08_job01.png)
+
+
 #### 2. Job2 of Day8
+
 ![Screenshot of Job02 on Day8](./screenshots/screenshot_jour08_job02.png)
+
+
 #### 3. Job3 of Day8
+
 ![Screenshot of Job03 on Day8](./screenshots/screenshot_jour08_job03.png)
+
+
 #### 4. Job4 of Day8
+
 A user (i.e. **Ruben**) is about to log in with his `firstname`.
+
 ![Screenshot1 of Job03 on Day8](./screenshots/screenshot_jour08_job04_1.png)
+
 The user (i.e. **Ruben**) has logged in *successfully*.
+
 ![Screenshot2 of Job03 on Day8](./screenshots/screenshot_jour08_job04_2.png)
 
 
@@ -369,6 +383,7 @@ The user (i.e. **Ruben**) has logged in *successfully*.
 > NOTE: These screenshots were captured with [inspector](https://www.chromium.org/developers/how-tos/inspecting-ash/) directly from the Chromium based **Brave Browser**.
 
 #### 1. Job1 of Day9
+
 ![Screenshot of Job01 on Day9](./screenshots/screenshot_jour09_job01.png)
 
 ## TODOs

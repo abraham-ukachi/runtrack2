@@ -41,7 +41,7 @@
 -- --------------------------------------------------------
 
 --
--- SQL statement to find the sum of the "superficie" field in `salles` table: 
+-- SQL statement to find the sum of the "superficie" field in `etages` table: 
 --
-SELECT SUM(superficie) FROM `salles`; --> A one-liner is always appreciated! :)
+SELECT SUM(superficie) FROM `etages`; --> A one-liner is always appreciated! :)
 -- returns 1000

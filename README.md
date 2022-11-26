@@ -209,8 +209,8 @@ Here is a list of all the task names, `.sql` files to be submitted and their cor
 | 12 | *`Job 12`* | **job12/job12.sql** | [Done](./jour09/job12/job12.sql)  |
 | 13 | *`Job 13`* | **job13/job13.sql** | [Done](./jour09/job13/job13.sql) |
 | 14 | *`Job 14`* | **job14/job14.sql** | [Done](./jour09/job14/job14.sql) |
-| 15 | *`Job 15`* | **job15/job15.sql** | _*In progress*_ |
-| 16 | *`Job 16`* | **job16/job16.sql** | Pending |
+| 15 | *`Job 15`* | **job15/job15.sql** | [Done](./jour09/job15/job15.sql) |
+| 16 | *`Job 16`* | **job16/job16.sql** | _*In progress*_ |
 
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.

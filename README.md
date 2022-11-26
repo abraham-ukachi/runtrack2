@@ -373,7 +373,7 @@ The user (i.e. **Ruben**) has logged in *successfully*.
 
 ## TODOs
 
-- [ ] Resize the screenshots
+- [x] Resize the screenshots
 - [ ] Optimize all `.php` files
 - [ ] Remove unnecessary comments
 

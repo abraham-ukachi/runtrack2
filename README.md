@@ -58,8 +58,9 @@ The folder & file structure of this project:
 > NOTE: This is just a snippet.
 
 
+<details id=1>
+<summary><h2>Jour 1 - Hello PHP</h2></summary>
 
-## Jour 1 - Hello PHP
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **11/15/2022 at 5:48 p.m.**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
@@ -75,8 +76,15 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 			(*N/A*) = no file was required or needed for this particular task.
 
+</details>
 
-## Jour 2 - Conditions
+
+
+
+
+<details id=2>
+<summary><h2>Jour 2 - Conditions</h2></summary>
+
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **11/17/2022 at 06:45 a.m.**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
@@ -92,8 +100,16 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 			(*N/A*) = no file was required or needed for this particular task.
 
+</details> 
 
-## Jour 3 - Tableaux
+
+
+
+
+
+<details id=3>
+<summary><h2>Jour 3 - Tableaux</h2></summary>
+
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **17/11/2022 at 09:48**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
@@ -111,8 +127,16 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
 
+</details>
 
-## Jour 4 & 5 - GET et POST
+
+
+
+
+
+<details id=4>
+<summary><h2>Jour 4 & 5 - GET et POST</h2></summary>
+
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **11/19/2022 at 5:28 p.m.**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
@@ -130,9 +154,14 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
 
+</details>
 
 
-## Jour 6 - Revisions
+ 
+
+<details id=5>
+<summary><h2>Jour 6 - Revisions</h2></summary>
+
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
@@ -148,9 +177,14 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
 
+</details>
 
 
-## Jour 7 - Les fonctions
+ 
+
+<details id=6>
+<summary><h2>Jour 7 - Les fonctions</h2></summary>
+
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
@@ -168,8 +202,14 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
 
+</details>
 
-## Jour 8 - Session / Cookies
+
+
+
+<details id=7>
+<summary><h2>Jour 8 - Session / Cookies</h2></summary>
+
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**, and some [random screeshots](#Day-08---Screenshots) were captured for these jobs.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
@@ -185,9 +225,13 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
 
+</details>
 
 
-## Jour 9 - Hello SQL
+
+<details id=8>
+<summary><h2>Jour 9 - Hello SQL</h2></summary>
+
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**,  and some [random screeshots](#Day-09---Screenshots) were captured for these jobs.
 
 Here is a list of all the task names, `.sql` files to be submitted and their corresponding / current **status** for this job:
@@ -215,9 +259,13 @@ Here is a list of all the task names, `.sql` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
 
+</details>
 
 
-## Jour 10 - PHP + SQL 
+
+<details id=9>
+<summary><h2>Jour 10 - PHP + SQL</h2></summary>
+
 > The official deadline of the jobs below - according to [intra](https://intra.laplateforme.io) - was **-?-**.
 
 Here is a list of all the task names, `.php` files to be submitted and their corresponding / current **status** for this job:
@@ -242,6 +290,7 @@ Here is a list of all the task names, `.php` files to be submitted and their cor
 > NOTE: (\*) = still needs to be updated \
 > 		(*N/A*) = no file was required or needed for this particular task.
 
+</details>
 
 ---
 
